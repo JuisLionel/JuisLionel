@@ -1,11 +1,28 @@
 <img src="Github-Banner.jpg" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Lionel, a Indonesia Web Developer 👋🏼:
-🛜 currently working on my own [webpage]()
-<br>👨🏼‍🎓 I am currently in high school
-<br>👨🏼‍💻 Currently Learning C++
+<h2 align="center">Hello World!, I'm Lionel 👋🏼:</h2>
 
-# 💻 Tech Stack:
+<div align="center">
+ 🔭 I’m currently working on [webpage]()
+ 
+ 🌱 I’m currently learning **C++, TailWind, Next-JS**
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:padcotrial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://instagram.com/JuisLionel" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+</div>
+
+
+<h2 align="center">💻 Tech Stack:</h2>
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -21,16 +38,18 @@
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/JuisLionel) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:padcotrial@gmail.com) 
-
-![](https://nirzak-streak-stats.vercel.app/?user=JuisLionel&theme=dark&hide_border=false)<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=418 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=JuisLionel&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  &nbsp;&nbsp;
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=JuisLionel&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+</div>
