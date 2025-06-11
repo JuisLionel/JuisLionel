@@ -52,4 +52,4 @@
 
 <h2 align="center">My Contributions</h2>
 
-![Pacman gif](https://github.com/JuisLionel/JuisLionel/blob/output/pacman-contribution-graph-dark.svg)
+![Snake gif](https://github.com/JuisLionel/JuisLionel/blob/output/github-snake-dark.svg)
