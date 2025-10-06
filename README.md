@@ -3,7 +3,7 @@
 <h2 align="center">Hello World!, I'm Lionel 👋🏼:</h2>
 
 <div align="center">
-  🌱 I’m currently learning <strong>C++ and Next-JS</strong>
+  🌱 I’m currently learning <strong>C++, Python, and Next-JS</strong>
 </div>
 
 <br>
