@@ -1,4 +1,4 @@
-<img src="./Github-Banner.jpg" alt="GITHUB BANNER">
+<img src="./Github-Banner.jpg" alt="GITHUB">
 
 <h1 align="center">Hi there! 👋<br>I'm Lionel Juis Gerardo 😄</h1>
 
@@ -37,11 +37,13 @@
 
 ### GitHub Stats
 
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JuisLionel&show_icons=true&count_private=true&line_height=20&card_width=400&theme=github_dark" width="56%" />
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuisLionel&layout=compact&langs_count=5&card_width=300&theme=github_dark" width="42%" />
-</p>
+### GitHub Stats
 
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JuisLionel&show_icons=true&count_private=true&line_height=20&card_width=400&theme=github_dark" height="170" />
+  &nbsp;&nbsp;&nbsp;
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuisLionel&layout=compact&langs_count=5&card_width=300&theme=github_dark" height="170" />
+</p>
 <p align="center">
   <a href="https://awi-portofolio.vercel.app/"><b>🌐 Visit my portfolio</b></a>
 </p>
