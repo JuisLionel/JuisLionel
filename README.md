@@ -38,9 +38,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JuisLionel&show_icons=true&count_private=true&line_height=20&card_width=400&theme=github_dark" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuisLionel&layout=compact&langs_count=5&card_width=300&theme=github_dark" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JuisLionel&show_icons=true&count_private=true&line_height=20&card_width=400&theme=github_dark" width="56%" />
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuisLionel&layout=compact&langs_count=5&card_width=300&theme=github_dark" width="42%" />
 </p>
 
 <p align="center">
