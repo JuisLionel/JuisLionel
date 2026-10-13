@@ -1,6 +1,6 @@
 <img src="./Github-Banner.jpg" alt="GITHUB">
 
-<h1 align="center">Hi there! 👋<br>I'm Lionel Juis Gerardo 😄</h1>
+<h1 align="center">Hi there! 👋<br>I'm Lionel Juis Gerardo 😺</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JuisLionel&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
