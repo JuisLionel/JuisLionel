@@ -1,57 +1,48 @@
-<img src="Github-Banner.jpg" alt="GitHub Banner" width="100%" />
+<img src="./Github-Banner.jpg" alt="GITHUB BANNER">
 
-<h2 align="center">Hello World!, I'm Lionel 👋🏼:</h2>
+<h1 align="center">Hi there! 👋<br>I'm Lionel Juis Gerardo 😄</h1>
 
-<div align="center">
-  🌱 I’m currently learning <strong>C++, Python, and Next-JS</strong>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JuisLionel&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
+  <a href="https://awi-portofolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.facebook.com/lionel.21065"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/juislionel/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:JuisLionel@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
-<br>
+### About me
 
-<div align="center"> 
-  <a href="mailto:padcotrial@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://instagram.com/JuisLionel" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://awi-portofolio.vercel.app/" target="_blank" rel="noopener noreferrer">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
-</div>
+- 💻 Web developer who loves building clean, modern, and responsive websites
 
-<h2 align="center">💻 Tech Stack:</h2>
+- 🌱 Always learning new tech and improving my skills every day
+- 🔧 Technologies I work with: HTML, CSS, JavaScript, React, Tailwind CSS, Node.js, PostgreSQL
+- 🌐 Check out my work: [awi-portofolio.vercel.app](https://awi-portofolio.vercel.app/)
+- ⚡ Fun fact: I love solving problems and seeing ideas come to life on screen!
 
-<div align="center">
+### Languages and Tools
 
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" />
-<img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
-<img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" />
-<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
-
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="45" height="45" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" />
+</p>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=380 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=JuisLionel&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  &nbsp;
-  <img width=355 src="https://github-readme-stats-salesp07.vercel.app/api?username=JuisLionel&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-</div>
+### GitHub Stats
 
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JuisLionel&show_icons=true&count_private=true&line_height=20&card_width=400&theme=github_dark" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuisLionel&layout=compact&langs_count=5&card_width=300&theme=github_dark" />
+</p>
 
-<h2 align="center">My Contributions</h2>
-
-![Snake gif](https://github.com/JuisLionel/JuisLionel/blob/output/github-snake-dark.svg)
+<p align="center">
+  <a href="https://awi-portofolio.vercel.app/"><b>🌐 Visit my portfolio</b></a>
+</p>
